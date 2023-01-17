@@ -25,8 +25,6 @@
 
 🛒 Raspberry Pi Pico ▶ http://educ8s.tv/part/RaspberryPiPico
 
-🛒 ESP32 S2 ▶ http://educ8s.tv/part/esp32s2
-
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
 
