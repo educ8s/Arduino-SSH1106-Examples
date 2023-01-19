@@ -33,7 +33,7 @@ Example 4: A Pong game where the microcontroller controlls both paddles.
 
 🛒 Raspberry Pi Pico ▶ http://educ8s.tv/part/RaspberryPiPico
 
-🛒 DHT22 Sensor: https://educ8s.tv/part/DHT22
+🛒 DHT22 Sensor ▶ https://educ8s.tv/part/DHT22
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
